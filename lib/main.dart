@@ -1,5 +1,5 @@
-import 'package:chat_app/features/login/views/screens/login_screen.dart';
-import 'package:chat_app/features/login/views/screens/register_screen.dart';
+import 'package:chat_app/features/login/views/screen/login_screen.dart';
+import 'package:chat_app/features/register/views/screen/register_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
